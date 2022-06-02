@@ -5,7 +5,7 @@
 $DataAgora 			= date('Y-m-d H:i:s');
 $DataBannerAgora 	= date('Y-m-d');
 $page 				= "";
-//https://www.fait.edu.br
+//https://www.domain.com.br
 
 //****************** CONFIG ****************//
 
